@@ -63,6 +63,6 @@ Personal portfolio project built with JavaScript.
   <sub>BUILD • LEARN • REPEAT</sub>
 </div>
 
-<sub>BUILD • LEARN • REPEAT</sub>
+
 
 </div>
