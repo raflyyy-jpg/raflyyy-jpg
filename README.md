@@ -59,7 +59,9 @@ Personal portfolio project built with JavaScript.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=raflyyy-jpg&style=flat-square&color=FF3B3B&label=PROFILE+VIEWS" />
+<div align="center">
+  <sub>BUILD • LEARN • REPEAT</sub>
+</div>
 
 <sub>BUILD • LEARN • REPEAT</sub>
 
